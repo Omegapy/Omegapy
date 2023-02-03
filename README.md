@@ -18,22 +18,9 @@ I would love to collaborate on a project; my goal is to build up my GitHub accou
 get proficient in a coding language, and be accepted as a collaborator on a project. 
 
 - 📫
-Email: 
-alex.omegapy@gmail.com
-copyalex@hotmail. com
-objectslayer@gmail.com
+Email:  
+alex.omegapy@gmail.com  
+copyalex@hotmail. com  
 
-Youtube: https://www.youtube.com/@omegapy (new)
+- Youtube: https://www.youtube.com/@omegapy
 
-👋 
-Alex
-
-Quote:
-“ Software Engineer
-noun [de-vel-op-er]
-Someone that solves problems   
-you didn’t know you had    
-in a way that you don’t understand.
-See also: wizard, magician ”
-
---->
