@@ -1,5 +1,4 @@
-![Face 1 Banner1](https://github.com/Omegapy/Omegapy/assets/121726699/78ad3273-9350-4b44-8724-10ee057a4ae7)
-
+![image](https://github.com/Omegapy/Omegapy/assets/121726699/e4907cbd-01d0-46e8-93d3-c7dc3fc238a5)
 
 
 
