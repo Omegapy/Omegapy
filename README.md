@@ -1,7 +1,17 @@
 <img src="https://github.com/Omegapy/Omegapy/assets/121726699/ac8dbe8e-45b8-485c-86eb-772982f97078">
 
 # <img width="50" height="50" align="center" src="https://github.com/user-attachments/assets/f8f3f73f-c5e7-40cd-a9d1-f60aa32ca4a7"> Hi, I am Alex (Omegapy)
-Currently, I am pursuing a Bachelor of Science in Computer Science with a Degree Specialization In Artificial Intelligence (AI) And Robotics at Colorado State University Global (CSU Global). Estimated graduation date is December 2025.<br>After graduation, I have plans to pursue a Master's in Artificial Intelligence (AI) & Machine Learning at CSU Global. I have already planned my course path with a CSU Global advisor. Estimated graduation date is December 2026.<br>I am a high distinction honors graduate with an Associate of Science in Computer Science from Laramie County Community College (LCCC), completed in December 2023.<br><br>I would like to collaborate on AI implementation projects.<br>This semester (Fall B 2024 Aug-Oct) at CSU Global, I am attending the following courses:<br>-	CSC400 Data Structures and Algorithms<br>-	CSC405 Graphics and Visualization<br>Ask me about AI ethics.<br>Fun fact: I am fluent in English, French, and Spanish. I also understand Italian and can communicate in it. Additionally, I recently became a U.S. citizen and changed my name to Alexander S. Ricciardi.<br>
+Currently, I am pursuing a Bachelor of Science in Computer Science with a [Degree Specialization In Artificial Intelligence (AI) And Robotics](https://csuglobal.edu/academic-programs/undergraduate-specializations/undergraduate-specialization-artificial-intelligence-and-robotics) at Colorado State University Global ([CSU Global](https://csuglobal.edu/?utm_source=google&utm_medium=cpc&utm_campaign=nb_gen_gen_co-online-schools_sdi&utm_network=g&gad_source=1&gclid=EAIaIQobChMIlrvh_ujbhwMVbdrCBB0fOjrWEAAYASAAEgKnUPD_BwE&gclsrc=aw.ds)). Estimated graduation date is December 2025.  
+After graduation, I have plans to pursue a [Master's in Artificial Intelligence (AI) & Machine Learning](https://csuglobal.edu/academic-programs/graduate-degrees/masters-science-degree-artificial-intelligence-machine-learning) at CSU Global. I have already planned my course path with a CSU Global advisor. Estimated graduation date is December 2026.  
+I am a high distinction honors graduate with an Associate of Science in Computer Science from Laramie County Community College ([LCCC](https://www.lccc.wy.edu/)), completed in December 2023.
+
+I would like to collaborate on AI implementation projects.  
+This semester (Fall B 2024 Aug-Oct) at CSU Global, I am attending the following courses:   
+CSC400 Data Structures and Algorithms  
+CSC405 Graphics and Visualization  
+Ask me about AI ethics.
+Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.
+Additionally, I recently became a U.S. citizen and changed my name to Alexander S. Ricciardi.
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
