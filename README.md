@@ -1,4 +1,4 @@
-<a href="https://www.w3schools.com" target="_blank"><img src="https://github.com/Omegapy/Omegapy/assets/121726699/ac8dbe8e-45b8-485c-86eb-772982f97078">
+<a href="https://www.w3schools.com"><img src="https://github.com/Omegapy/Omegapy/assets/121726699/ac8dbe8e-45b8-485c-86eb-772982f97078">
 
 # <img width="50" height="50" align="center" src="https://github.com/user-attachments/assets/f8f3f73f-c5e7-40cd-a9d1-f60aa32ca4a7"> Hi, I am Alex (Omegapy)
 Currently, I am pursuing a Bachelor of Science in Computer Science with a [Degree Specialization In Artificial Intelligence (AI) And Robotics](https://csuglobal.edu/academic-programs/undergraduate-specializations/undergraduate-specialization-artificial-intelligence-and-robotics) at Colorado State University Global ([CSU Global](https://csuglobal.edu/?utm_source=google&utm_medium=cpc&utm_campaign=nb_gen_gen_co-online-schools_sdi&utm_network=g&gad_source=1&gclid=EAIaIQobChMIlrvh_ujbhwMVbdrCBB0fOjrWEAAYASAAEgKnUPD_BwE&gclsrc=aw.ds)). My estimated graduation date is December 2025.  
