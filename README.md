@@ -13,7 +13,7 @@ Ask me about AI ethics.
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.
 Additionally, I recently became a U.S. citizen and changed my name FROM Alejandro Ricciardi to Alexander S. Ricciardi.
 
-Check my [Code Chronicles | Exploring Computer Science](https://www.alexomegapy.com/) blob.
+Check my [Code Chronicles | Exploring Computer Science](https://www.alexomegapy.com/) blog.
 
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
