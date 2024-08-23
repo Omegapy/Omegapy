@@ -13,6 +13,8 @@ Ask me about AI ethics.
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.
 Additionally, I recently became a U.S. citizen and changed my name FROM Alejandro Ricciardi to Alexander S. Ricciardi.
 
+Check my [Code Chronicles | Exploring Computer Science](https://www.alexomegapy.com/) blob.
+
 # 💻 Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -32,7 +34,7 @@ Additionally, I recently became a U.S. citizen and changed my name FROM Alejandr
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=omegapy&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 ## 🌐 Socials
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089638857137) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-ricciardi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlexOmegapy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4rMaQ7sqywMZkfS1xGh2AA) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit)](https://medium.com/@alex.omegapy) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100089638857137) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-ricciardi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlexOmegapy) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4rMaQ7sqywMZkfS1xGh2AA) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omegapy&icon=0&color=0)](https://visitcount.itsvg.in)
