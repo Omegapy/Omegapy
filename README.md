@@ -11,7 +11,7 @@ CSC400 Data Structures and Algorithms
 CSC405 Graphics and Visualization  
 Ask me about AI ethics.
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.
-Additionally, I recently became a U.S. citizen and changed my name FROM Alejandro Ricciardi to Alexander S. Ricciardi.
+Additionally, I recently became a U.S. citizen and changed my name from Alejandro Ricciardi to Alexander S. Ricciardi.
 
 Check my [Code Chronicles | Exploring Computer Science](https://www.alexomegapy.com/) blog.
 
