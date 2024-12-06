@@ -13,7 +13,7 @@ Ask me about AI ethics.
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.
 Additionally, I recently became a U.S. citizen and changed my name from Alejandro Ricciardi to Alexander S. Ricciardi.
 
-Check:
+### Check:  
 My blog on Medium:   
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit)](https://medium.com/@alex.omegapy)  
 My blog on Dev.to:  
