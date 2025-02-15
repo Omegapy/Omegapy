@@ -6,9 +6,9 @@ After graduation, I have plans to pursue a [Master's in Artificial Intelligence 
 I am a high distinction honors graduate with an Associate of Science in Computer Science from Laramie County Community College ([LCCC](https://www.lccc.wy.edu/)), completed in December 2023.
 
 I would like to collaborate on AI implementation projects.  
-This semester (Winter B 2024 Dec-Feb) at CSU Global, I am attending the following courses:   
-CSC470 Software Engineering  
-ITS315 Introduction to Networks    
+This semester (Winter D 2024 Feb-Apr 2025) at CSU Global, I am attending the following courses:   
+CSC475 Platform-Base Development 
+ITS325 Technology, Ethics, and Global Community    
 Ask me about AI ethics.
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.
 Additionally, I recently became a U.S. citizen and changed my name from Alejandro Ricciardi to Alexander S. Ricciardi.
