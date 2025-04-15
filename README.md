@@ -39,8 +39,6 @@ My blog on Dev.to:
 ![Kotlin](https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white)
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=omegapy&theme=dark&hide_border=false)<br/>
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=omegapy&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
 ## 🌐 Socials - Blogs
 <i><a href="https://www.alexomegapy.com" target="_blank"><img width="25" height="25" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></i>
 <i><a href="https://www.alexomegapy.com" target="_blank"><img width="150" height="23" src="https://github.com/user-attachments/assets/caa139ba-6b78-403f-902b-84450ff4d563"></i>
@@ -51,9 +49,6 @@ My blog on Dev.to:
 <i><a href="https://www.threads.net/@alexomegapy?hl=en" target="_blank"><img width="53" height="20" src="https://github.com/user-attachments/assets/58c9e833-4501-42e4-b4fe-39ffafba99b2"></i>
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AlexOmegapy)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4rMaQ7sqywMZkfS1xGh2AA)  
-
----
-[![](https://visitcount.itsvg.in/api?id=omegapy&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
