@@ -7,8 +7,8 @@ I am a high distinction honors graduate with an Associate of Science in Computer
 
 I would like to collaborate on AI implementation projects.  
 This semester (Winter D 2024 Feb-Apr 2025) at CSU Global, I am attending the following courses:   
-CSC475 Platform-Base Development   
-ITS325 Technology, Ethics, and Global Community    
+ITS410 Data Managment   
+MIS350 Information Systems Analysis and Design   
 Ask me about AI ethics.   
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.   
 Additionally, I recently became a U.S. citizen and changed my name from Alejandro Ricciardi to Alexander S. Ricciardi.  
