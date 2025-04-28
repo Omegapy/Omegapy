@@ -6,7 +6,7 @@ After graduation, I have plans to pursue a [Master's in Artificial Intelligence 
 I am a high distinction honors graduate with an Associate of Science in Computer Science from Laramie County Community College ([LCCC](https://www.lccc.wy.edu/)), completed in December 2023.
 
 I would like to collaborate on AI implementation projects.  
-This semester (Winter D 2024 Feb-Apr 2025) at CSU Global, I am attending the following courses:   
+This semester (Spring B Apr.-June 2025) at CSU Global, I am attending the following courses:   
 ITS410 Data Managment   
 MIS350 Information Systems Analysis and Design   
 Ask me about AI ethics.   
