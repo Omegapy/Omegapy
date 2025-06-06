@@ -2,7 +2,7 @@
 
 # <span><a href="https://www.alexomegapy.com" target="_blank"><img width="50" height="50" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></span> Hi, I am Alex (Omega-py)
 Currently, I am pursuing a Bachelor of Science in Computer Science at Colorado State University Global ([CSU Global](https://csuglobal.edu/?utm_source=google&utm_medium=cpc&utm_campaign=nb_gen_gen_co-online-schools_sdi&utm_network=g&gad_source=1&gclid=EAIaIQobChMIlrvh_ujbhwMVbdrCBB0fOjrWEAAYASAAEgKnUPD_BwE&gclsrc=aw.ds)). My estimated graduation date is August 3, 2025.  
-After graduation, I have plans to pursue a [Master's in Artificial Intelligence (AI) & Machine Learning](https://csuglobal.edu/academic-programs/graduate-degrees/masters-science-degree-artificial-intelligence-machine-learning) at CSU Global. I have already planned my course path with a CSU Global advisor. My estimated graduation date is Aygust 2026.   
+After graduation, I have plans to pursue a [Master's in Artificial Intelligence (AI) & Machine Learning](https://csuglobal.edu/academic-programs/graduate-degrees/masters-science-degree-artificial-intelligence-machine-learning) at CSU Global. I have already planned my course path with a CSU Global advisor. My estimated graduation date is August 2026.   
 I am a high distinction honors graduate with an Associate of Science in Computer Science from Laramie County Community College ([LCCC](https://www.lccc.wy.edu/)), completed in December 2023.
 
 I would like to collaborate on AI implementation projects.  
