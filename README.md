@@ -1,7 +1,7 @@
 <img src="https://github.com/Omegapy/Omegapy/assets/121726699/ac8dbe8e-45b8-485c-86eb-772982f97078">
 
 # <span><a href="https://www.alexomegapy.com" target="_blank"><img width="50" height="50" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></span> Hi, I am Alex (omega.py)
-Currently, I am pursuing a Master of Science in Ai and LM at Colorado State University Global ([CSU Global](https://csuglobal.edu/academic-programs/graduate-degrees/masters-science-degree-artificial-intelligence-machine-learning)). My estimated graduation date is August 2027.  
+Currently, I am pursuing a Master of Science in AI and LM at Colorado State University Global ([CSU Global](https://csuglobal.edu/academic-programs/graduate-degrees/masters-science-degree-artificial-intelligence-machine-learning)). My estimated graduation date is August 2027.  
 
 BS in CS: I am a Summa Cum Laude graduate with a Bachelor of Science in Computer Science from CSU Global - Aug. 2025  
 AS in CS: I am a High Distinction Honors Graduate with an Associate of Science in Computer Science from Laramie County Community College ([LCCC](https://www.lccc.wy.edu/)) - Dec. 2023.
