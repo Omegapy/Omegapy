@@ -1,6 +1,6 @@
 
 
-<img width="2048" height="512" alt="omagapycc (1)" src="https://github.com/user-attachments/assets/8b4f1485-f37b-4f94-a63d-324d51ed5de0" />
+<img width="2048" height="512" alt="omagapycc (3)" src="https://github.com/user-attachments/assets/dd6e628e-5210-474a-8033-678851bb0d67" />
 
 
 # <span><a href="https://www.alexomegapy.com" target="_blank"><img width="50" height="50" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></span> Hi, I am Alex 
