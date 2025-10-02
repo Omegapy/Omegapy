@@ -16,8 +16,7 @@ Laramie County Community College (LCCC) - Dec. 2023
 4.0 GPA High Distinction Honors graduate  
 
 I would like to collaborate on AI implementation projects.  
-     
-Ask me about AI ethics.   
+       
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.   
 Additionally, I recently became a U.S. citizen and changed my name from Alejandro Ricciardi to Alexander S. Ricciardi.  
 
