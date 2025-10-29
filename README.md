@@ -18,7 +18,6 @@ Laramie County Community College (LCCC) - Dec. 2023
 I would like to collaborate on AI implementation projects.  
        
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.   
-Additionally, I recently became a U.S. citizen and changed my name from Alejandro Ricciardi to Alexander S. Ricciardi.  
 
 ### Check:  
 My blog on Medium:   
