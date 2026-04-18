@@ -20,7 +20,7 @@ I would like to collaborate on AI implementation projects.
        
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.   
 
-### Check:  
+### My Links:  
 My blog on Medium:   
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit)](https://medium.com/@alex.omegapy)  
 My blog on Dev.to:  
