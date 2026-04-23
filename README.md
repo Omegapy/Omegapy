@@ -1,8 +1,6 @@
+<img width="1846" height="852" alt="Space-banner" src="https://github.com/user-attachments/assets/bffc6c0b-0213-4c1c-8d85-dafd13999bc7" />
 
 # <span><a href="https://www.alexomegapy.com" target="_blank"><img width="50" height="50" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></span> Hi, I am Alex 
-
-
-<img width="2048" height="512" alt="omagapycc (3)" src="https://github.com/user-attachments/assets/aa28593b-e3c2-4cae-aef8-db2efc2aa774" />
 
 Currently, I am pursuing a Master of Science in AI and LM at Colorado State University Global ([CSU Global](https://csuglobal.edu/academic-programs/graduate-degrees/masters-science-degree-artificial-intelligence-machine-learning)). My estimated graduation date is August 2027.  
 
