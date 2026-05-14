@@ -1,4 +1,5 @@
-<img width="1846" height="852" alt="Space-banner" src="https://github.com/user-attachments/assets/bffc6c0b-0213-4c1c-8d85-dafd13999bc7" />
+<img width="1672" height="941" alt="Omegapy-space-banner" src="https://github.com/user-attachments/assets/771fc579-5edf-44ba-9d22-dee12fa66170" />
+<!-- <img width="1846" height="852" alt="Space-banner" src="https://github.com/user-attachments/assets/bffc6c0b-0213-4c1c-8d85-dafd13999bc7" /> -->
 
 # <span><a href="https://www.alexomegapy.com" target="_blank"><img width="50" height="50" align="center" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53"></span> Hi, I am Alex 
 
