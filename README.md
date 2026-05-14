@@ -20,7 +20,9 @@ I would like to collaborate on AI implementation projects.
 Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.   
 
 ### My Links:  
-My blog on Medium:   
+My other repo:  
+<i><a href="https://github.com/AngryOwlAI/" target="_blank"><img width="25" height="25" align="center" src="https://github.com/user-attachments/assets/ef169f03-2a25-4737-95e8-9b6a85491c9c"></i>  AngryOwl  
+<br> My blog on Medium:   
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit)](https://medium.com/@alex.omegapy)  
 My blog on Dev.to:  
  <span><a href="https://dev.to/alex_ricciardi" target="_blank"><img width="53" height="20" src="https://github.com/user-attachments/assets/3dee9933-d8c9-4a38-b32e-b7a3c55e7e97"></span>   
