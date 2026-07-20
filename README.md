@@ -7,8 +7,8 @@ Currently, I am pursuing a Master of Science in AI and LM at Colorado State Univ
 
 **Software Engineer – Focus on AI**  
 
-Pursuing a Master's in AI and LM
-Colorado State University Global (CSU Global)
+Pursuing a Master's in AI and LM  
+Colorado State University Global (CSU Global)  
 Estimated graduation: March 2027.
 
 Bachelor of Science (BS) in Computer Science (CS)  
