@@ -17,20 +17,26 @@ Colorado State University Global (CSU Global) - August 3, 2025
 
 Associate of Science (AS) in Computer Science (CS)   
 Laramie County Community College (LCCC) - Dec. 2023  
-4.0 GPA High Distinction Honors graduate  
-
-I would like to collaborate on AI implementation projects.  
-       
-Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.  
+4.0 GPA, High Distinction Honors graduate  
 
 ---
 
-#### My other repo:  
-<a href="https://github.com/AngryOwlAI/"><img width="25" height="25" src="https://github.com/user-attachments/assets/ef169f03-2a25-4737-95e8-9b6a85491c9c" alt="AngryOwlAI logo"><img height="30" src="https://img.shields.io/badge/AngryOwlAI-0D1117?style=for-the-badge" alt="AngryOwlAI GitHub organization"></a>
+I would like to collaborate on AI implementation projects.  
+Fun fact: I am fluent in English, French, and Spanish. I also understand and speak some Italian.  
 
-#### My blog:  
-<a href="https://www.alexomegapy.com"><img width="27" height="27" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53" alt="Code Chronicles logo"></a><a href="https://www.alexomegapy.com"><img height="30" src="https://img.shields.io/badge/Code%20Chronicles%20%7C%20Omegapy-0D1117?style=for-the-badge" alt="Code Chronicles | Omegapy">  
-</a>[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit)](https://medium.com/@alex.omegapy)  
+<table>
+  <tbody>
+    <tr>
+      <td>My other repo:<br>
+        <a href="https://github.com/AngryOwlAI/"><img width="25" height="25" src="https://github.com/user-attachments/assets/ef169f03-2a25-4737-95e8-9b6a85491c9c" alt="AngryOwlAI logo"><img height="30" src="https://img.shields.io/badge/AngryOwlAI-0D1117?style=for-the-badge" alt="Ny AngryOwlAI GitHub"></a>
+      </td>
+      <td><b>My blog:<br>
+        <a href="https://www.alexomegapy.com"><img width="27" height="27" src="https://github.com/user-attachments/assets/a8e0ea66-5d8f-43b3-8fff-2c3d74d57f53" alt="My logo" ></a><a href="https://www.alexomegapy.com"><img height="30" src="https://img.shields.io/badge/Code%20Chronicles%20%7C%20Omegapy-0D1117?style=for-the-badge" alt="Code Chronicles | Omegapy" alt="My Blog on my personel website"></a>
+        <a href="https://medium.com/@alex.omegapy)"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="My Blog on Medium"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
